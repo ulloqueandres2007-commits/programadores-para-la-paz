@@ -1,0 +1,8 @@
+Es importante que las plataformas tecnológicas reciban información de forma estructurada porque facilita su organización y procesamiento.
+Los datos bien organizados ayudan a responder más rápido a las necesidades de la comunidad.
+También permiten generar reportes claros y confiables.
+Esto mejora la comunicación entre ciudadanos y entidades.
+El uso de formatos como JSON hace que la información sea fácil de compartir entre sistemas.
+Además, reduce errores al procesar los datos.
+Las aplicaciones pueden automatizar tareas y brindar mejores servicios.
+Por estas razones, considero que recibir información estructurada es fundamental para desarrollar soluciones tecnológicas útiles.
