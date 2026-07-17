@@ -1,0 +1,8 @@
+El uso responsable de la información en internet ayuda a evitar la difusión de noticias falsas.
+Como ciudadanos digitales debemos verificar las fuentes antes de compartir contenido.
+La participación ciudadana mejora cuando la información es confiable y respetuosa.
+Git permite organizar los cambios realizados en un proyecto.
+GitHub facilita el trabajo colaborativo entre varias personas.
+Estas herramientas ayudan a mantener un historial de las modificaciones.
+También permiten trabajar de forma ordenada y transparente.
+Por eso es importante combinar el uso responsable de la información con una buena organización técnica.
