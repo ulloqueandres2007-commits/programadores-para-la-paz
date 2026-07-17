@@ -1,0 +1,8 @@
+Las APIs permiten que diferentes aplicaciones compartan información de manera rápida y organizada.
+Esto facilita el envío de reportes y alertas entre la comunidad y las autoridades.
+También ayudan a centralizar la información en un solo sistema.
+Gracias a ellas es posible automatizar procesos y mejorar la comunicación.
+Las APIs permiten que varias plataformas trabajen juntas.
+Esto hace que los servicios sean más eficientes.
+Además, favorecen el desarrollo de soluciones tecnológicas para la comunidad.
+Por estas razones, considero que las APIs son fundamentales para compartir información de forma segura y organizada.
