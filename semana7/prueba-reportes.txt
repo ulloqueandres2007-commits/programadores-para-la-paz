@@ -1,0 +1,1 @@
+Al consultar la ruta GET /reportes, el servidor devuelve la lista de reportes almacenados en memoria. Si antes se registraron reportes mediante la ruta POST, estos aparecen en formato JSON. Si no hay reportes registrados, devuelve un arreglo vacío.
