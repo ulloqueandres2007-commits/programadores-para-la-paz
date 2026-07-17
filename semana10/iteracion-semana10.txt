@@ -1,0 +1,6 @@
+Las dos primeras tareas serían registrar una incidencia y recibir una alerta en Telegram, porque permiten registrar información y avisar rápidamente al equipo.
+
+Una tarea está terminada cuando:
+- Funciona correctamente.
+- Fue probada sin errores.
+- Quedó registrada en Git y publicada en GitHub.
