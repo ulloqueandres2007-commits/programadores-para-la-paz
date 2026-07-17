@@ -1,0 +1,5 @@
+Evento: Nueva causa registrada.
+
+Mensaje: "Nueva causa creada en la plataforma. Revisar el sistema."
+
+No debe enviarse información sensible como cédulas, teléfonos, direcciones, contraseñas, tokens o datos personales.

@@ -1,0 +1,5 @@
+1. Un ciudadano crea una nueva causa.
+2. La causa se registra en la base de datos.
+3. Otros ciudadanos apoyan la causa.
+4. El sistema cuenta el número de apoyos recibidos.
+5. El sistema genera un documento PDF con la petición para compartirla.
