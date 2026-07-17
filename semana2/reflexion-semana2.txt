@@ -1,0 +1,8 @@
+Aprender a usar la terminal me permitió comprender mejor cómo interactuar con el sistema operativo.
+Los comandos básicos facilitan la organización de archivos y carpetas.
+También ayudan a realizar tareas de forma más rápida y ordenada.
+Con la práctica es posible trabajar con mayor seguridad y precisión.
+La terminal es una herramienta importante para quienes estudian programación.
+Además, el uso de Git desde la terminal permite controlar los cambios de un proyecto.
+Esto facilita el trabajo individual y colaborativo.
+Considero que aprender estos comandos será muy útil para mi formación y futuros proyectos.

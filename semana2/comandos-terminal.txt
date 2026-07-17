@@ -1,0 +1,11 @@
+git clone https://github.com/ulloqueandres2007-commits/programadores-para-la-paz.git
+cd programadores-para-la-paz
+mkdir semana2
+cd semana2
+touch preguntas-semana2.txt
+touch comandos-terminal.txt
+touch reflexion-semana2.txt
+cd ..
+git add .
+git commit -m "Actividad semana 2"
+git push
